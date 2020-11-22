@@ -1,0 +1,2 @@
+# arduino-esp8266-webhook
+Projeto acadêmico, utilizando Arduino, o modulo ESP8266, e o Tinkercad para fazer um webhook e enviar um email notificando o usuario. O proposito do webhook é notificar o usuario sobre o acionamento do arduino. Esse repositorio faz parte do projeto Lixeira inteligente, onde desenvolvi um sensor de capacidade para lixeiras e um sistema de gerenciamento municipal de lixeiras para empresas de reciclagem.
